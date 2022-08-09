@@ -1,4 +1,5 @@
-## dist-db-a-look
+## f1-a-look
 
-本项目提供的课程文档是4人合作的成果，本人主要负责第五部分（F1）及各部分表述、整体逻辑的修缮。
-PS：在线浏览存在乱页现象。
+Google F1 异步模式变更算法的部分中文翻译。
+
+[原论文](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41376.pdf)
